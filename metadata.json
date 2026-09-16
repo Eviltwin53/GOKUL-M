@@ -1,0 +1,6 @@
+{
+  "name": "EnviGuard AI - Environmental Monitoring Network",
+  "description": "Smart India Hackathon 2026 (SIH26178) by Team Next Gen Thinmer & Qualcomm: A resilient, AI-powered environmental monitoring network for early detection and actionable alerts for floods, forest fires, and pollution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
